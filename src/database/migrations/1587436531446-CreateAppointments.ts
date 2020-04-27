@@ -20,7 +20,7 @@ export default class CreateAppointments1587436531446
           },
           {
             name: 'data',
-            type: 'timestamp with timezone',
+            type: 'timestamp with time zone',
           },
         ],
       })

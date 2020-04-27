@@ -1,6 +1,6 @@
 {
   "type": "postgres",
-  "host": "node-api-typescrpt-gostack11_database_1",
+  "host": "localhost",
   "port": "5432",
   "username": "postgres",
   "password": "docker",
